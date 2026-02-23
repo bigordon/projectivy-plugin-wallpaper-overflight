@@ -4,5 +4,11 @@
     "title": "My PNG Wallpaper",
     "author": "Me",
     "url_img": "http://192.168.1.128:8088/wallpapers/philadelphia-flyers.png"
+  },
+  {
+    "location": "My custom image",
+    "title": "My PNG Wallpaper",
+    "author": "Me",
+    "url_img": "http://192.168.1.128:8088/wallpapers/philadelphia-eagles.png"
   }
 ]

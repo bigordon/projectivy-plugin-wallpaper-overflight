@@ -1,14 +1,8 @@
 [
-    {
-        "title": "Flyers",
-        "url_img": "https://overflight.07281992.xyz/wallpapers/philadelphia-flyers.png",
-    },
-    {
-        "title": "Eagles",
-        "url_img": "https://overflight.07281992.xyz/wallpapers/philadelphia-eagles.png",
-    },
-    {
-        "title": "Philles",
-        "url_img": "https://overflight.07281992.xyz/wallpapers/philadelphia-phillies.png",
-    }
+  {
+    "location": "My custom image",
+    "title": "My PNG Wallpaper",
+    "author": "Me",
+    "url_img": "https://overflight.07281992.xyz/wallpapers/philadelphia-flyers.png"
+  }
 ]

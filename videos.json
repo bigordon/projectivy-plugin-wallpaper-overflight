@@ -1,26 +1,14 @@
 [
     {
-        "location": "Flyers",
         "title": "Flyers",
-        "url_1080p": "http://192.168.1.128:8088/wallpapers/philadelphia-flyers.png",
-        "url_1080p_hdr": "http://192.168.1.128:8088/wallpapers/philadelphia-flyers.png",
-        "url_4k": "http://192.168.1.128:8088/wallpapers/philadelphia-flyers.png",
-        "url_4k_hdr": "http://192.168.1.128:8088/wallpapers/philadelphia-flyers.png"
+        "url_img": "http://192.168.1.128:8088/wallpapers/philadelphia-flyers.png",
     },
     {
-        "location": "Eagles",
         "title": "Eagles",
-        "url_1080p": "http://192.168.1.128:8088/wallpapers/philadelphia-eagles.png",
-        "url_1080p_hdr": "http://192.168.1.128:8088/wallpapers/philadelphia-eagles.png",
-        "url_4k": "http://192.168.1.128:8088/wallpapers/philadelphia-eagles.png",
-        "url_4k_hdr": "http://192.168.1.128:8088/wallpapers/philadelphia-eagles.png"
+        "url_img": "http://192.168.1.128:8088/wallpapers/philadelphia-eagles.png",
     },
     {
-        "location": "Philles",
         "title": "Philles",
-        "url_1080p": "http://192.168.1.128:8088/wallpapers/philadelphia-phillies.png",
-        "url_1080p_hdr": "http://192.168.1.128:8088/wallpapers/philadelphia-phillies.png",
-        "url_4k": "http://192.168.1.128:8088/wallpapers/philadelphia-phillies.png",
-        "url_4k_hdr": "http://192.168.1.128:8088/wallpapers/philadelphia-phillies.png"
+        "url_img": "http://192.168.1.128:8088/wallpapers/philadelphia-phillies.png",
     }
 ]
